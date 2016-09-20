@@ -6,8 +6,8 @@ public class Java24 {
 		Bike mybike,urbike;
 		mybike = new Bike();
 		urbike = new Bike();
-		System.out.println(mybike.speed);
-		System.out.println(urbike.speed);
+	//	System.out.println(mybike.speed);
+	//	System.out.println(urbike.speed);
 	}
 
 }

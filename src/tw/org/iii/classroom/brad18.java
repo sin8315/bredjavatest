@@ -23,7 +23,7 @@ public class brad18 {
 			System.out.println("---------");
 		int[] f = {1,2,3,5,7};
 		//f = {1,2,3,5,7};
-		for (int i = 0; i < f.length; i++) {
+		for (int i1 = 0; i1 < f.length; i1++) {
 			
 		}
 		}
